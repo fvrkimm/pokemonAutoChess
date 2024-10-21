@@ -393,7 +393,8 @@
     "HEADBUTT": "박치기",
     "STEEL_WING": "강철날개",
     "YAWN": "하품",
-    "FIERY_DANCE": "불꽃춤"
+    "FIERY_DANCE": "불꽃춤",
+    "POISON_STING": "독침"
   },
   "pkm": {
     "DEFAULT": "미싱노",
@@ -729,6 +730,7 @@
     "HONEDGE": "단칼빙",
     "DOUBLADE": "쌍검킬",
     "AEGISLASH": "킬가르도",
+    "AEGISLASH_BLADE": "킬가르도 (블레이드폼)",
     "CUBONE": "탕구리",
     "MAROWAK": "텅구리",
     "ALOLAN_MAROWAK": "알로라텅구리",
@@ -1255,7 +1257,14 @@
     "CORVISQUIRE": "파크로우",
     "CORVIKNIGHT": "아머까오",
     "MURKROW": "니로우",
-    "HONCHKROW": "돈크로우"
+    "HONCHKROW": "돈크로우",
+    "SANDYGAST": "모래꿍",
+    "PALOSSAND": "모래성이당",
+    "SKORUPI": "스콜피",
+    "DRAPION": "드래피온",
+    "DARUMAKA": "달막화",
+    "DARMANITAN": "불비달마",
+    "DARMANITAN_ZEN": "불비달마 (달마모드)"
   },
   "ability_description": {
     "SOFT_BOILED": "모든 아군 포켓몬의 상태이상효과를 회복하며 [20,40,80,SP] 만큼의 SHIELD를 부여한다.",
